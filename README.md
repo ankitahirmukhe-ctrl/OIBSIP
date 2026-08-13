@@ -97,6 +97,7 @@ Through these projects, I gained practical experience in:
 
 ## Repository Structure
 
+```text
 OIBSIP/
 │
 ├── WebDev-L1-Portfolio/
@@ -106,6 +107,7 @@ OIBSIP/
 ├── WebDev-L1-LandingPage/
 │
 └── README.md
+```
 
 ## License
 
