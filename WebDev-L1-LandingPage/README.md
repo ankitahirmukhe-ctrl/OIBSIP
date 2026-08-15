@@ -81,7 +81,7 @@ The website follows a warm café aesthetic using:
 
 ## 📸 Screenshot
 
-![Café Sunshine Landing Page](image1.png)
+![Café Sunshine Landing Page](images/image1.png)
 ![Café Sunshine Landing Page](image2.png)
 ![Café Sunshine Landing Page](image3.png)
 ![Café Sunshine Landing Page](image4.png)
