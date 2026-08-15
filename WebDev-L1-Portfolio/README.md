@@ -44,11 +44,11 @@ Portfolio/
 ├── script.js
 │
 ├── images/
-│   ├── profile.jpg
-│   ├── project1.png
-│   ├── project2.png
-│   ├── project3.png
-│   └── project4.png
+│   ├── image1.jpg
+│   ├── image2.png
+│   ├── image3.png
+│   └── image4.png
+│   
 │
 └── README.md
 ```
