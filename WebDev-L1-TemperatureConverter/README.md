@@ -32,12 +32,17 @@ A simple, responsive temperature conversion web application that allows users to
 ## Project Structure
 
 ```text
-Temperature-Converter/
+WebDev-L1-TemperatureConverter/
+│
+├── images/
+│   ├── image1.png
+│   ├── image2.png
+│   ├── image3.png
+│   └── image4.png
 │
 ├── index.html
 ├── style.css
 ├── script.js
-│
 └── README.md
 ```
 
