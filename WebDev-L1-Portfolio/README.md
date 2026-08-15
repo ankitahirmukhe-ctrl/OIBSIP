@@ -36,7 +36,7 @@ The website showcases my introduction, skills, projects, achievements, education
 ---
 
 ## Project Structure
-
+```text
 Portfolio/
 │
 ├── index.html
@@ -51,7 +51,7 @@ Portfolio/
 │   └── project4.png
 │
 └── README.md
-
+```
 ---
 
 ## Responsive Design
