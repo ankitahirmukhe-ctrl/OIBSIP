@@ -32,6 +32,7 @@ The website presents Café Sunshine, its menu, story, contact details, and newsl
 
 ## 📂 Project Structure
 
+```text
 Café-Sunshine/
 │
 ├── index.html
@@ -46,11 +47,14 @@ Café-Sunshine/
 │   ├── shake.png
 │   ├── Sushi.jpeg
 │   ├── hotpot.jpeg
-│   └── cafe.png
-│
-├── screenshot.png
+│   ├── cafe.png
+│   ├── image1.png
+│   ├── image2.png
+│   ├── image3.png
+│   └── image4.png
 │
 └── README.md
+```
 
 ---
 
@@ -82,9 +86,12 @@ The website follows a warm café aesthetic using:
 ## 📸 Screenshot
 
 ![Café Sunshine Landing Page](images/image1.png)
-![Café Sunshine Landing Page](image2.png)
-![Café Sunshine Landing Page](image3.png)
-![Café Sunshine Landing Page](image4.png)
+
+![Café Sunshine Landing Page](images/image2.png)
+
+![Café Sunshine Landing Page](images/image3.png)
+
+![Café Sunshine Landing Page](images/image4.png)
 
 ---
 
